@@ -52,5 +52,17 @@
   "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\COFEOOP.dir\\FileManager.cpp.obj -c C:\\Users\\lehaa\\CLionProjects\\COFEOOP\\FileManager.cpp",
   "file": "C:/Users/lehaa/CLionProjects/COFEOOP/FileManager.cpp",
   "output": "C:/Users/lehaa/CLionProjects/COFEOOP/cmake-build-debug/CMakeFiles/COFEOOP.dir/FileManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/lehaa/CLionProjects/COFEOOP/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\COFEOOP.dir\\ConsoleView.cpp.obj -c C:\\Users\\lehaa\\CLionProjects\\COFEOOP\\ConsoleView.cpp",
+  "file": "C:/Users/lehaa/CLionProjects/COFEOOP/ConsoleView.cpp",
+  "output": "C:/Users/lehaa/CLionProjects/COFEOOP/cmake-build-debug/CMakeFiles/COFEOOP.dir/ConsoleView.cpp.obj"
+},
+{
+  "directory": "C:/Users/lehaa/CLionProjects/COFEOOP/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\COFEOOP.dir\\CafeController.cpp.obj -c C:\\Users\\lehaa\\CLionProjects\\COFEOOP\\CafeController.cpp",
+  "file": "C:/Users/lehaa/CLionProjects/COFEOOP/CafeController.cpp",
+  "output": "C:/Users/lehaa/CLionProjects/COFEOOP/cmake-build-debug/CMakeFiles/COFEOOP.dir/CafeController.cpp.obj"
 }
 ]

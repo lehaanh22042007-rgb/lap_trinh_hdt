@@ -121,6 +121,22 @@ build CMakeFiles/COFEOOP.dir/FileManager.cpp.obj: CXX_COMPILER__COFEOOP_unscanne
   OBJECT_FILE_DIR = CMakeFiles\COFEOOP.dir
   TARGET_SUPPORT_DIR = CMakeFiles\COFEOOP.dir
 
+build CMakeFiles/COFEOOP.dir/ConsoleView.cpp.obj: CXX_COMPILER__COFEOOP_unscanned_Debug C$:/Users/lehaa/CLionProjects/COFEOOP/ConsoleView.cpp || cmake_object_order_depends_target_COFEOOP
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\COFEOOP.dir\ConsoleView.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\COFEOOP.dir
+  OBJECT_FILE_DIR = CMakeFiles\COFEOOP.dir
+  TARGET_SUPPORT_DIR = CMakeFiles\COFEOOP.dir
+
+build CMakeFiles/COFEOOP.dir/CafeController.cpp.obj: CXX_COMPILER__COFEOOP_unscanned_Debug C$:/Users/lehaa/CLionProjects/COFEOOP/CafeController.cpp || cmake_object_order_depends_target_COFEOOP
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\COFEOOP.dir\CafeController.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\COFEOOP.dir
+  OBJECT_FILE_DIR = CMakeFiles\COFEOOP.dir
+  TARGET_SUPPORT_DIR = CMakeFiles\COFEOOP.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target COFEOOP
@@ -129,7 +145,7 @@ build CMakeFiles/COFEOOP.dir/FileManager.cpp.obj: CXX_COMPILER__COFEOOP_unscanne
 #############################################
 # Link the executable COFEOOP.exe
 
-build COFEOOP.exe: CXX_EXECUTABLE_LINKER__COFEOOP_Debug CMakeFiles/COFEOOP.dir/main.cpp.obj CMakeFiles/COFEOOP.dir/Beverage.cpp.obj CMakeFiles/COFEOOP.dir/Coffe.cpp.obj CMakeFiles/COFEOOP.dir/Size.cpp.obj CMakeFiles/COFEOOP.dir/tea.cpp.obj CMakeFiles/COFEOOP.dir/Topping.cpp.obj CMakeFiles/COFEOOP.dir/Frappuccino.cpp.obj CMakeFiles/COFEOOP.dir/Order.cpp.obj CMakeFiles/COFEOOP.dir/FileManager.cpp.obj
+build COFEOOP.exe: CXX_EXECUTABLE_LINKER__COFEOOP_Debug CMakeFiles/COFEOOP.dir/main.cpp.obj CMakeFiles/COFEOOP.dir/Beverage.cpp.obj CMakeFiles/COFEOOP.dir/Coffe.cpp.obj CMakeFiles/COFEOOP.dir/Size.cpp.obj CMakeFiles/COFEOOP.dir/tea.cpp.obj CMakeFiles/COFEOOP.dir/Topping.cpp.obj CMakeFiles/COFEOOP.dir/Frappuccino.cpp.obj CMakeFiles/COFEOOP.dir/Order.cpp.obj CMakeFiles/COFEOOP.dir/FileManager.cpp.obj CMakeFiles/COFEOOP.dir/ConsoleView.cpp.obj CMakeFiles/COFEOOP.dir/CafeController.cpp.obj
   CONFIG = Debug
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32

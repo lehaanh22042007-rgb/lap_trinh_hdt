@@ -19,4 +19,8 @@ add_executable(COFEOOP main.cpp
         Order.cpp
         Order.h
         FileManager.cpp
-        FileManager.h)
+        FileManager.h
+        ConsoleView.cpp
+        ConsoleView.h
+        CafeController.cpp
+        CafeController.h)
