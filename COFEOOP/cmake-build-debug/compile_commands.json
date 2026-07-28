@@ -1,0 +1,56 @@
+[
+{
+  "directory": "C:/Users/lehaa/CLionProjects/COFEOOP/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\COFEOOP.dir\\main.cpp.obj -c C:\\Users\\lehaa\\CLionProjects\\COFEOOP\\main.cpp",
+  "file": "C:/Users/lehaa/CLionProjects/COFEOOP/main.cpp",
+  "output": "C:/Users/lehaa/CLionProjects/COFEOOP/cmake-build-debug/CMakeFiles/COFEOOP.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/lehaa/CLionProjects/COFEOOP/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\COFEOOP.dir\\Beverage.cpp.obj -c C:\\Users\\lehaa\\CLionProjects\\COFEOOP\\Beverage.cpp",
+  "file": "C:/Users/lehaa/CLionProjects/COFEOOP/Beverage.cpp",
+  "output": "C:/Users/lehaa/CLionProjects/COFEOOP/cmake-build-debug/CMakeFiles/COFEOOP.dir/Beverage.cpp.obj"
+},
+{
+  "directory": "C:/Users/lehaa/CLionProjects/COFEOOP/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\COFEOOP.dir\\Coffe.cpp.obj -c C:\\Users\\lehaa\\CLionProjects\\COFEOOP\\Coffe.cpp",
+  "file": "C:/Users/lehaa/CLionProjects/COFEOOP/Coffe.cpp",
+  "output": "C:/Users/lehaa/CLionProjects/COFEOOP/cmake-build-debug/CMakeFiles/COFEOOP.dir/Coffe.cpp.obj"
+},
+{
+  "directory": "C:/Users/lehaa/CLionProjects/COFEOOP/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\COFEOOP.dir\\Size.cpp.obj -c C:\\Users\\lehaa\\CLionProjects\\COFEOOP\\Size.cpp",
+  "file": "C:/Users/lehaa/CLionProjects/COFEOOP/Size.cpp",
+  "output": "C:/Users/lehaa/CLionProjects/COFEOOP/cmake-build-debug/CMakeFiles/COFEOOP.dir/Size.cpp.obj"
+},
+{
+  "directory": "C:/Users/lehaa/CLionProjects/COFEOOP/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\COFEOOP.dir\\tea.cpp.obj -c C:\\Users\\lehaa\\CLionProjects\\COFEOOP\\tea.cpp",
+  "file": "C:/Users/lehaa/CLionProjects/COFEOOP/tea.cpp",
+  "output": "C:/Users/lehaa/CLionProjects/COFEOOP/cmake-build-debug/CMakeFiles/COFEOOP.dir/tea.cpp.obj"
+},
+{
+  "directory": "C:/Users/lehaa/CLionProjects/COFEOOP/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\COFEOOP.dir\\Topping.cpp.obj -c C:\\Users\\lehaa\\CLionProjects\\COFEOOP\\Topping.cpp",
+  "file": "C:/Users/lehaa/CLionProjects/COFEOOP/Topping.cpp",
+  "output": "C:/Users/lehaa/CLionProjects/COFEOOP/cmake-build-debug/CMakeFiles/COFEOOP.dir/Topping.cpp.obj"
+},
+{
+  "directory": "C:/Users/lehaa/CLionProjects/COFEOOP/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\COFEOOP.dir\\Frappuccino.cpp.obj -c C:\\Users\\lehaa\\CLionProjects\\COFEOOP\\Frappuccino.cpp",
+  "file": "C:/Users/lehaa/CLionProjects/COFEOOP/Frappuccino.cpp",
+  "output": "C:/Users/lehaa/CLionProjects/COFEOOP/cmake-build-debug/CMakeFiles/COFEOOP.dir/Frappuccino.cpp.obj"
+},
+{
+  "directory": "C:/Users/lehaa/CLionProjects/COFEOOP/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\COFEOOP.dir\\Order.cpp.obj -c C:\\Users\\lehaa\\CLionProjects\\COFEOOP\\Order.cpp",
+  "file": "C:/Users/lehaa/CLionProjects/COFEOOP/Order.cpp",
+  "output": "C:/Users/lehaa/CLionProjects/COFEOOP/cmake-build-debug/CMakeFiles/COFEOOP.dir/Order.cpp.obj"
+},
+{
+  "directory": "C:/Users/lehaa/CLionProjects/COFEOOP/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\COFEOOP.dir\\FileManager.cpp.obj -c C:\\Users\\lehaa\\CLionProjects\\COFEOOP\\FileManager.cpp",
+  "file": "C:/Users/lehaa/CLionProjects/COFEOOP/FileManager.cpp",
+  "output": "C:/Users/lehaa/CLionProjects/COFEOOP/cmake-build-debug/CMakeFiles/COFEOOP.dir/FileManager.cpp.obj"
+}
+]

@@ -1,0 +1,3 @@
+C:/Users/lehaa/CLionProjects/COFEOOP/cmake-build-debug/CMakeFiles/COFEOOP.dir
+C:/Users/lehaa/CLionProjects/COFEOOP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lehaa/CLionProjects/COFEOOP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
